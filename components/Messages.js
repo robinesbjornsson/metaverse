@@ -1,6 +1,6 @@
 import {ByMoralis, useMoralis, useMoralisQuery} from "react-moralis"
 import SendMessage from "./SendMessage"
-import Message from "./Message"
+import Message from "./Message.js"
 import {  useRef } from "react";
 
 const MINS_DURATION  = 15
